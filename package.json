@@ -1,0 +1,21 @@
+{
+    "name": "one-djimo-pro",
+    "displayName": "one-djimo-pro",
+    "description": "one-djimo-pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "one-djimo-pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-djimo-pro-color-theme.json"
+            }
+        ]
+    }
+}
